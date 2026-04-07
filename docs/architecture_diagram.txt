@@ -1,0 +1,3 @@
+[User Mobile App] <--> [Node.js API Gateway] <--> [Google Vision AI]
+                                |
+                        [Azure Cosmos DB] <--> [AWS S3 Storage]
